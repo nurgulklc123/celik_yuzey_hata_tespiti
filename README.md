@@ -1,0 +1,1 @@
+#celik yüzey hata tespiti
