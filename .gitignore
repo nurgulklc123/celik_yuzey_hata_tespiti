@@ -1,0 +1,15 @@
+# Veri ve modeller (büyük dosyalar)
+data/
+models/
+runs/
+*.pt
+*.pth
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
